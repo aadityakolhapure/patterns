@@ -1,3 +1,13 @@
+
+// *  
+// 20 25 
+// 30  *  *  
+// 40 45 50 55 
+// 50  *  *  *  *  
+// 60 65 70 75 80 85 
+// 70  *  *  *  *  *  *  
+
+
 public class mar12pattern {
     public static void main(String[] args) {
         int n = 8;
@@ -37,3 +47,6 @@ public class mar12pattern {
         return false;
     }
 }
+
+
+
